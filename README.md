@@ -1,2 +1,0 @@
-# auto-safelink
-Safelink
